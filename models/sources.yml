@@ -1,0 +1,14 @@
+version: 2
+
+sources:
+  - name: uwinnipeg
+    description: "class test data"
+    database: XINGYU_DIT_45604
+    schema: CLASS_TEST_XINGYU
+    tables:
+      - name: CUSTOMERS
+        description: "this is the customer table info"
+      - name: ORDERS
+        description: "this is orders table info"
+      - name: PRODUCTS
+        description: "this is a product table info"
